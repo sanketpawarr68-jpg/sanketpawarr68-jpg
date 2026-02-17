@@ -68,10 +68,6 @@ Description: Personal portfolio showcasing projects and skills.
 Repository: https://github.com/sanketpawarr68-jpg/wp-clone  
 Description: Real-time chat interface built with modern JavaScript.
 
-### Medicine Management System
-Repository: Add link here  
-Description: Inventory management system with CRUD functionality.
-
 ---
 
 ## GitHub Statistics
